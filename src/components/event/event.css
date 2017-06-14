@@ -1,0 +1,14 @@
+.event-window {
+  position: fixed;
+  left: 50%;
+  background-color: white;
+  transform: translate(-50%, 0);
+  width: 500px;
+}
+
+.add-event {
+  display: inline-block;
+  background-color: #ccc;
+  width: 250px;
+  height: 20px;
+}

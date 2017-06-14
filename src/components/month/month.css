@@ -1,0 +1,26 @@
+.month-calendar {
+
+}
+
+.has-event {
+  background-color: red;
+}
+
+.day-of-week {
+  display: inline-block;
+  width: 150px;
+  text-align: top;
+  cursor: pointer;
+}
+
+.month-calendar-day {
+  height: 30px;
+  width: 150px;
+  display: inline-block;
+}
+
+.date-cell {
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+}

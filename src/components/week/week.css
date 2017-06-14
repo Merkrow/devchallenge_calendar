@@ -1,0 +1,21 @@
+.week-calendar {
+  display: inline-block;
+  width: 150px;
+  background: #ccc;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.today {
+  background: #eee;
+}
+
+.event {
+  background: #aaa;
+  border: 1px solid #ccc;
+  height: 20px;
+}
+
+.has-event {
+  background-color: red;
+}
